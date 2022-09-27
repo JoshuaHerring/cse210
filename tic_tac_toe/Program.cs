@@ -5,10 +5,15 @@ namespace Test
 
     public class Program
     {
+        public void determineWinner()
+        {
+            
+        }
         public static void Main(string[] args)
         {
 
-                        string a = "1";
+
+            string a = "1";
             string b = "2";
             string c = "3";
             string d = "4";
@@ -17,6 +22,8 @@ namespace Test
             string g = "7";
             string h = "8";
             string i = "9";
+
+
 
             for (int z = 0; z < 10; z++)
             {
